@@ -1,5 +1,5 @@
 ## Hey, Geek 😎
-<p align="center"><a href="https://github.com/rooted-cyber"><img src="https://telegra.ph/file/7657a8071b39eb1163015.jpg" alt="Bt">
+<p align="center"><a href="https://github.com/rooted-cyber"><img src="https://telegra.ph/file/2df6f577864e353558816.jpg" alt="Bt">
   
 ## <p align="center"> Know More About Us
   
