@@ -38,3 +38,9 @@
 <a href="https://github.com/rooted-cyber"><img title="rooted-cyber" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rooted-cyber&layout=compact"></a>
 </p>
 <p align="center"> Copyright of Noob Hackers
+
+
+- Wakatime card
+
+[![rootedcyber wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rooted-cyber)](https://github.com/anuraghazra/github-readme-stats)
+
