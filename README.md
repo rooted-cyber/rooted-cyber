@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/rooted-cyber"><img title="rooted-cyber" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rooted-cyber&layout=compact"></a>
+<a href="https://github.com/rooted-cyber"><img title="rooted-cyber" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e3ris&layout=compact"></a>
 </p>
 <p align="center"> Copyright of Noob Hackers
 
