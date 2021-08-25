@@ -6,7 +6,7 @@
 
 </p>
   
-<p align="center"><a href="https://github.com/rooted-cyber"><img title="Bhavik tutorials" src="https://github-readme-stats.vercel.app/api?username=AashooSharma&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/rooted-cyber"><img title="Bhavik tutorials" src="https://github-readme-stats.vercel.app/api?username=rooted-cyber&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/rooted-cyber"><img title="rooted-cyber" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashooSharma&layout=compact"></a>
+<a href="https://github.com/rooted-cyber"><img title="rooted-cyber" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rooted-cyber&layout=compact"></a>
 </p>
 <p align="center"> Copyright of Noob Hackers
 
