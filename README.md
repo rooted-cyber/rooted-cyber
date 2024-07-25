@@ -1,5 +1,5 @@
 ## Hey, Geek ôþŸ˜ôþ
-<p align="center"><a href="https://github.com/rooted-cyber"><img src="https://graph.org/file/235c6f89be7a28eba0282.jpg" alt="Bt">
+<p align="center"><a href="https://github.com/rooted-cyber"><img src="https://graph.org/file/256b97eb1983f5dc7f181.jpg" alt="Bt">
   
 ## <p align="center"> Know More About Us
   
