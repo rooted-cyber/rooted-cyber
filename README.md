@@ -18,7 +18,7 @@
 
 <p align="center">
 <a href="https://t.me/+n8u2GAyzcg00NmFl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<br /
+<br />
 <a href="https://instagram.com/rootedcyber"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <br />
 <a href="https://facebook.com/rootedcyber"><<img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -28,6 +28,8 @@
 <a href="https://github.com/rooted-cyber/Termux-New-Look"><img title="Termux-New-Look" src="https://github-readme-stats.vercel.app/api/pin/?username=rooted-cyber&repo=Termux-New-Look&theme=highcontrast"></a>
 <a href="https://github.com/rooted-cyber/Ti-Script"><img title="Ti-Script" src="https://github-readme-stats.vercel.app/api/pin/?username=rooted-cyber&repo=Ti-Script&theme=highcontrast"></a>
 <a href="https://github.com/rooted-cyber/Random-Theme"><img title="Random-Theme" src="https://github-readme-stats.vercel.app/api/pin/?username=rooted-cyber&repo=Random-Theme&theme=highcontrast"></a>
+<a href="https://github.com/rooted-cyber/setup"><img title="setup" src="https://github-readme-stats.vercel.app/api/pin/?username=rooted-cyber&repo=setup&theme=highcontrast"></a>
+
 </p>
 </p>
 
